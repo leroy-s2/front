@@ -1,0 +1,5 @@
+
+#root {
+  height: 100vh; /* Usa viewport height para que no se pase */
+  overflow-y: hidden;
+}
